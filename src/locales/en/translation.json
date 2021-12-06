@@ -252,6 +252,7 @@
   },
   "mainMenu": {
     "buySov": "Buy SOV",
+    "buy": "Buy",
     "trade": "Trade",
     "swap": "Swap",
     "marginTrade": "Margin",
